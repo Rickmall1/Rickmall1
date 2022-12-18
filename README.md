@@ -7,8 +7,9 @@
 
 -⭐Python
 
--🚀MySQL
+-🌞JavaScript
 
+-🚀MySQL
 
 <div align="center">
   <a href="https://github.com/Rickmall1">
