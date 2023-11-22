@@ -1,5 +1,5 @@
 ## Bem-vindo ao meu perfil 🪐
--🛸Estudante de front-end e back-end
+-🛸Estudante de desenvolvimento seguro
 
 -🌍HTML
 
