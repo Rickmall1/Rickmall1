@@ -1,10 +1,6 @@
 ## Bem-vindo ao meu perfil 🪐
 -🛸Estudante de desenvolvimento seguro
 
--🌍HTML
-
--🌑CSS
-
 -⭐Python
 
 -🌞JavaScript
