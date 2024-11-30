@@ -1,11 +1,13 @@
-## Bem-vindo ao meu perfil 🪐
--🛸Estudante de desenvolvimento seguro
+## Welcome to my page! 🪐
+-🛸Computer Science undergraduate
 
--⭐Python
+-⭐Passionate about mathematics
 
--🌞JavaScript
+-🌞Curious about Turing's theory
 
--🌕React
+-📊Studying genetic algorithms
+
+-🚙Working on a research project about energy dispatch in electric vehicles
 
   
 ##
