@@ -3,7 +3,7 @@
 
 -⭐Passionate about mathematics
 
--🌞Curious about Turing's theory
+-🌞Curious about optimization
 
 -📊Studying genetic algorithms
 
